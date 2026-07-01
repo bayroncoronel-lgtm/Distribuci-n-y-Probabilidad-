@@ -1,3 +1,6 @@
+<h1 align="center">🔷 Portafolio Digital Sistematizado 🔷</h1>
+
+---
 # Componente 1: El Documento Técnico (Unidad 2)
 
 **Asignatura:** Teoría de la Distribución y Probabilidad  
