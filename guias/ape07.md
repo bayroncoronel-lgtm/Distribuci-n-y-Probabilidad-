@@ -12,6 +12,7 @@
 **Objetivo:** Demostrar computacionalmente el Teorema del Límite Central mediante simulación estocástica y aplicar bootstrapping al dataset regional.
 
 
+
 <img width="497" height="361" alt="cap 1" src="https://github.com/user-attachments/assets/bfdae9da-23c8-4dd1-908b-3f06c4db1705" />
 
 
