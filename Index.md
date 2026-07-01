@@ -11,6 +11,7 @@
 ## 📌  3: Guías de laboratorio
 [Click aqui](guias/laboratorio.md)
 
+## 📌 4: Bitácora en Markdown
 
 ---
 
