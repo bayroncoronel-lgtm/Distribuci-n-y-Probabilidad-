@@ -1,4 +1,4 @@
-#APE 011 - Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)
+# APE 011 - Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)
 
 ## Integrantes:
 
