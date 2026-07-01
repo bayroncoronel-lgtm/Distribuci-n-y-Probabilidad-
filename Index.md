@@ -6,7 +6,7 @@
 [Click aqui](componente1.md)
 
 ### 📌 2: Video de Defensa y Demostración en Código
-
+[Click aqui](componente2.md)
 
 ---
 
