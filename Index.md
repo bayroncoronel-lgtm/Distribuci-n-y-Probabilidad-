@@ -2,9 +2,9 @@
 
 ---
 
-### 📌 Subtítulo 1: El Documento Técnico (Jupyter Notebook - .ipynb)
+### 📌 1: Documento Técnico (Jupyter Notebook - .ipynb)
 
-### 📌 Subtítulo 2: El Video de Defensa y Demostración en Código
+### 📌 2: Video de Defensa y Demostración en Código
 
 
 ---
