@@ -8,6 +8,8 @@
 ### 📌 2: Video de Defensa y Demostración en Código
 [Click aqui](componente2.md)
 
+## 📌  3: Guías de laboratorio
+
 ---
 
 ## 👤 Autor
