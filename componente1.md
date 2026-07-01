@@ -109,3 +109,8 @@ Q=\frac{\bar{x}_{max}-\bar{x}_{min}}
 {\sqrt{\frac{MS_{Dentro}}{n}}}
 $$
 
+<img width="466" height="501" alt="cap 4" src="https://github.com/user-attachments/assets/7bb0f63f-b793-4a1a-9f7a-f59cffb61c9b" />
+
+
+<img width="1003" height="368" alt="cap 5" src="https://github.com/user-attachments/assets/b259f054-a4c3-4dd0-9540-a759bd209950" />
+
