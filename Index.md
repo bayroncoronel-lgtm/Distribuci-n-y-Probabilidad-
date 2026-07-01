@@ -9,6 +9,7 @@
 [Click aqui](componente2.md)
 
 ## 📌  3: Guías de laboratorio
+[Click aqui](guias/laboratorio.md)
 
 ---
 
