@@ -12,6 +12,8 @@
 [Click aqui](guias/laboratorio.md)
 
 ## 📌 4: Bitácora en Markdown
+[Click aqui](guias/bitacora)
+
 
 ---
 
