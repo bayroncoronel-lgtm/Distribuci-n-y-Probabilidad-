@@ -1,4 +1,4 @@
-#APE 06 - Distribuciones Continua - Notables
+# APE 06 - Distribuciones Continua - Notables
 
 ### Integrantes:
 
