@@ -16,28 +16,37 @@
 <img width="678" height="525" alt="cap 1" src="https://github.com/user-attachments/assets/712d5f98-4aef-4178-b88a-c169d09d2177" />
 
 
+
 <img width="619" height="327" alt="cap 2" src="https://github.com/user-attachments/assets/188de039-dde7-4a65-bb0e-38bf691e3bae" />
+
 
 
 <img width="475" height="316" alt="cap 3" src="https://github.com/user-attachments/assets/aa501bfe-789f-4fcb-9e2e-04ee4276f3fc" />
 
 
+
 <img width="461" height="451" alt="cap 4" src="https://github.com/user-attachments/assets/fcd1a538-64c8-4887-a62e-c521796ae14e" />
+
 
 
 <img width="399" height="423" alt="cap 5" src="https://github.com/user-attachments/assets/9a142fff-7b60-4300-a3e6-94f415ad72fd" />
 
 
+
 <img width="764" height="511" alt="cap 6" src="https://github.com/user-attachments/assets/67e09425-5cb0-46f7-aa0e-4d303a4f7d3f" />
+
 
 
 <img width="805" height="467" alt="cap 7" src="https://github.com/user-attachments/assets/9c4787b5-c132-41c6-a5cc-2221299e0150" />
 
 
+
 <img width="687" height="410" alt="cap 8" src="https://github.com/user-attachments/assets/d0eefa10-8e7a-4eb6-9037-f9ae6f4b4530" />
 
 
+
 <img width="955" height="414" alt="cap 9" src="https://github.com/user-attachments/assets/f528e50c-1b2f-4784-aa1c-f95a10f6dc15" />
+
 
 
 # PREGUNTAS DE CONTROL
