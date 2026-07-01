@@ -3,7 +3,7 @@
 ---
 
 ### 📌 1: Documento Técnico (Jupyter Notebook - .ipynb)
-[texto visible](ruta-del-archivo)
+[Click aqui](componente1.md)
 
 ### 📌 2: Video de Defensa y Demostración en Código
 
