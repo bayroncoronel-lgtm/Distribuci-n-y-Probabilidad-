@@ -12,7 +12,7 @@
 [Click aqui](guias/laboratorio.md)
 
 ## 📌 4: Bitácora en Markdown
-[Click aqui](guias/bitacora)
+[Click aqui](guias/bitacora.md)
 
 ## 📌 5: El archivo procesado
 [Click aqui](guias/procesado.md)
