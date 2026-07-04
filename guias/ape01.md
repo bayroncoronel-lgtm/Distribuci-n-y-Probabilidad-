@@ -2,6 +2,14 @@
 ## Variables Aleatorias y Distribuciones de Probabilidad
 
 **1. Datos Generales:**
+
+### Integrantes:
+* Jeancarlos Aguirre
+* Javier Campoverde
+* Willian Granda
+* Bayron Coronel
+* Axel Jiménez
+
 * **Asignatura:** Teoría de la Distribución y Probabilidad
 * **Ciclo:** 2do "A" - Carrera de Computación
 * **Docente:** Cristian Ramiro Narváez Guillén
